@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+title: Divertons
+email: contato@divertons.com.br
+url: http://divertons.com.br
+description: "Diversos tons para todos os momentos!"
+keywords: "design, design grafico, custom avatar, artesanal"
+skills: "Diversos tons para todos os momentos!"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -21,34 +21,31 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+disqus_shortname: divertons
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: cdb2df #e34f9c #e31881
+  primary-rgb: "205,178,223" #"227,79,156"
+  secondary: e31881 #582a77 #490677
+  secondary-dark: 490677
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  social: Redes Sociais
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://facebook.com/divertons
+  - title: instagram
+    url: https://instagram.com/divertons
+  - title: pinterest
+    url: https://pinterest.com/divertons
+  - title: envelope
+    url: mailto:contato@divertons.com.br
+  - title: shopping-cart
+    url: https://loja.divertons.com.br
 
 # Postal address (add as many lines as necessary)
 address:
