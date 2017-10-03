@@ -36,16 +36,24 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: facebook
+  - icon: facebook
     url: https://facebook.com/divertons
-  - title: instagram
+    alt: Facebook
+  - icon: instagram
     url: https://instagram.com/divertons
-  - title: pinterest
+    alt: Instagram
+  - icon: pinterest
     url: https://pinterest.com/divertons
-  - title: envelope
+    alt: Pinterest
+  - icon: envelope
     url: mailto:contato@divertons.com.br
-  - title: shopping-cart
+    alt: E-mail
+  - icon: rss
+    url: https://medium.com/divertons
+    alt: Blog
+  - icon: shopping-cart
     url: https://loja.divertons.com.br
+    alt: Loja
 
 # Postal address (add as many lines as necessary)
 address:
