@@ -50,6 +50,7 @@ hr.star-primary {
     text-align: center;
 }
 
+/* Remove 'star' symbol -> ----x----
 hr.star-light:after,
 hr.star-primary:after {
     content: "\f005";
@@ -60,6 +61,7 @@ hr.star-primary:after {
     font-family: FontAwesome;
     font-size: 2em;
 }
+*/
 
 hr.star-light {
     border-color: #fff;
