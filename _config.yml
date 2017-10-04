@@ -49,10 +49,10 @@ social:
     url: mailto:contato@divertons.com.br
     alt: E-mail
   - icon: rss
-    url: https://medium.com/divertons
+    url: https://blog.divertons.com.br
     alt: Blog
   - icon: shopping-cart
-    url: https://loja.divertons.com.br
+    url: https://www.elo7.com.br/divertons/loja
     alt: Loja
 
 # Postal address (add as many lines as necessary)
