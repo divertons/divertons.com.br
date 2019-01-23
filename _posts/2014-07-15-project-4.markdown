@@ -4,7 +4,7 @@ modal-id: 4
 date: 2014-07-15
 thumb: 4_avatar_thumb.png
 img: 4_avatar_900x650.png
-title: "Avatar Personalizado"
-description: "Ilustração personalizada: Avatar para Redes Sociais."
+title: "Cartum"
+description: "Ilustração temática: estilo cartum."
 
 ---
