@@ -4,7 +4,7 @@ modal-id: 6
 date: 2014-07-15
 thumb: 6_identidade_visual_thumb.png
 img: 6_identidade_visual_900x650.png
-title: "Identidade Visual"
-description: "Identidade visual para empresas ou produtos."
+title: "Cartum"
+description: "Ilustração temática: estilo cartum - Papai Noel Tropical."
 
 ---
