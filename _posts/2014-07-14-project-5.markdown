@@ -4,7 +4,7 @@ modal-id: 5
 date: 2014-07-14
 thumb: 5_pet_thumb.png
 img: 5_pet_900x650.png
-title: "Personalizada"
-description: "Ilustração personalizada: Seu Pet vira arte."
+title: "Identidade Visual"
+description: "Identidade visual para empresas ou produtos."
 
 ---
