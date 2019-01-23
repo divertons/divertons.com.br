@@ -4,7 +4,7 @@ modal-id: 2
 date: 2014-07-17
 thumb: 2_menino_thumb.png
 img: 2_menino_900x650.png
-title: "Editorial Infantil"
-description: "Ilustração Editorial Infantil: Menino soltando pipa - Menino jogando bola - Menino estudando no quarto."
+title: "Vetor"
+description: "Ilustração personalizada: estilo vetorial."
 
 ---
