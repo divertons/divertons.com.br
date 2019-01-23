@@ -4,7 +4,7 @@ modal-id: 3
 date: 2014-07-16
 thumb: 3_publicitario_thumb.png
 img: 3_publicitario_900x650.png
-title: "Anúncio Publicitário"
-description: "Ilustração para Anúncio Publicitário Infantil: Loja de Brinquedos Pintando o 7."
+title: "Comemorativo"
+description: "Ilustração personalizada: datas comemorativas."
 
 ---
