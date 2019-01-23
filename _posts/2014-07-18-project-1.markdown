@@ -4,7 +4,7 @@ modal-id: 1
 date: 2014-07-18
 thumb: 1_cartoon_thumb.png
 img: 1_cartoon_900x650.png
-title: "Personalizada"
+title: "Pet"
 description: "Ilustração personalizada: seu pet vira arte."
 
 ---
